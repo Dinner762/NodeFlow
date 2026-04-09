@@ -1,5 +1,7 @@
-  <img src='asset/image_2026-04-09_162333065.png' style="height:50px"></img> 
-  #  NodeFlow
+<p align="center">
+  <img src="asset/image_2026-04-09_162333065.png" height="50">
+</p>
+ #  NodeFlow
 
 <p align="center">
   <b>Simplifying Unreal Engine Blueprints into clean, visual flows</b> <img src="https://img.shields.io/github/license/Dinner762/NodeFlow?style=for-the-badge"> 
