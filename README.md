@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/github/stars/Dinner762/nodeflow?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/Dinner762/nodeflow?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/Dinner762/nodeflow?style=for-the-badge">
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+  <img src= "https://img.shields.io/badge/License%20-%20Apache%20License%202.0">
+
 </p>
 
 ## 🚀 Features
