@@ -1,9 +1,15 @@
-# 🔷 NodeFlow  
-### Simplifying Unreal Engine Blueprints into clean, visual flows
+# 🔷 NodeFlow
 
-NodeFlow is an Unreal Engine extension that transforms traditional Blueprint scripting into a more **structured, block-style, and intuitive workflow**—making complex graphs easier to build, read, and maintain.
+<p align="center">
+  <b>Simplifying Unreal Engine Blueprints into clean, visual flows</b>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/stars/YOURNAME/nodeflow?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/YOURNAME/nodeflow?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/YOURNAME/nodeflow?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/YOURNAME/nodeflow?style=for-the-badge">
+</p>
 
 ## 🚀 Features
 
