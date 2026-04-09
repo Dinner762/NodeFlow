@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/stars/Dinner762/nodeflow?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/Dinner762/nodeflow?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/Dinner762/nodeflow?style=for-the-badge">
-  <img src= "https://img.shields.io/badge/License%20-%20Apache%20License%202.0">
+  <img alt="Static Badge" src="https://img.shields.io/badge/License%20-%20Apache%20License%202.0">
 
 </p>
 
