@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YOURNAME/nodeflow?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/YOURNAME/nodeflow?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/YOURNAME/nodeflow?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/YOURNAME/nodeflow?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Dinner762/nodeflow?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Dinner762/nodeflow?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Dinner762/nodeflow?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Dinner762/nodeflow?style=for-the-badge">
 </p>
 
 ## 🚀 Features
