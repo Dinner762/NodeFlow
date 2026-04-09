@@ -1,7 +1,7 @@
 <p align="center">
   <img src="asset/image_2026-04-09_162333065.png" height="250">
   <br>
-  <h1>NodeFlow</h1>
+  <h1>🔷 NodeFlow</h1>
 </p>
 
 
