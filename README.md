@@ -1,14 +1,14 @@
 # 🔷 NodeFlow
 
 <p align="center">
-  <b>Simplifying Unreal Engine Blueprints into clean, visual flows</b>
+  <b>Simplifying Unreal Engine Blueprints into clean, visual flows</b> <img src="https://img.shields.io/github/license/Dinner762/NodeFlow?style=for-the-badge">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Dinner762/nodeflow?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/Dinner762/nodeflow?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/Dinner762/nodeflow?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/Dinner762/NodeFlow?style=for-the-badge">
+  <img src='assets/image_2026-04-09_162333065.png' style="height:100px"></img>
 
 </p>
 
