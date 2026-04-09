@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="asset/image_2026-04-09_162333065.png" height="200">
+  <img src="asset/image_2026-04-09_162333065.png" height="50">
+  <br>
+  <h1>NodeFlow</h1>
 </p>
- #  NodeFlow
+
 
 <p align="center">
   <b>Simplifying Unreal Engine Blueprints into clean, visual flows</b> 
